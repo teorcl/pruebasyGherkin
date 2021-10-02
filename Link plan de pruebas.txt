@@ -1,0 +1,5 @@
+Link de Notion del plan de pruebas
+https://spiny-animal-2fc.notion.site/Plan-de-Pruebas-NOPCOMMERCE-de79797a758a4df0bc3e90a6d7ca94ab
+
+Bugs reportados
+https://sofkau.atlassian.net/jira/your-work
